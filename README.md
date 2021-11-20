@@ -15,7 +15,5 @@ Y para construir el build, recordar usar el comando
 npm run build
 ```
 
-```
 ### PAGINA
 https://eddy-glitcher.github.io/Webpack/
-```
